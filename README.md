@@ -24,4 +24,4 @@
 
 [2 Tracks via limit query - https://matthewviamusic.com/api/tracks/limit?q=2](https://matthewviamusic.com/api/tracks/limit?q=2)
 
-[1st page of tracks paginated by 12 - https://matthewviamusic.com/api/tracks/page?q=1](https://matthewviamusic.com/api/tracks/page?q=1)
+[1st page of tracks paginated by 12 - https://matthewviamusic.com/api/tracks/page?q=0](https://matthewviamusic.com/api/tracks/page?q=0)
