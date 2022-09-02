@@ -12,7 +12,7 @@
 
 [All Stats - https://matthewviamusic.com/api/stats](https://matthewviamusic.com/api/stats)
 
-[Single Stat - https://matthewviamusic.com/api/stats/1](https://matthewviamusic.com/api/stats/1)
+[Single Stat by ID - https://matthewviamusic.com/api/stats/1](https://matthewviamusic.com/api/stats/1)
 
 [All Pixel Art Images - https://matthewviamusic.com/api/pxa](https://matthewviamusic.com/api/pxa)
 
