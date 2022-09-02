@@ -2,8 +2,6 @@
 
 ### A full stack application providing API access to the underlying data and music catalogue of recording artist Matthew Via Music.
 
-[API](https://matthewviamusic.com/api/tracks)
-
 ## API Endpoints
 
 [All Tracks - https://matthewviamusic.com/api/tracks](https://matthewviamusic.com/api/tracks)
