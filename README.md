@@ -16,6 +16,8 @@
 
 [All Albums - https://matthewviamusic.com/api/tracks/albums](https://matthewviamusic.com/api/tracks/albums)
 
+[All Albums with Genre - https://matthewviamusic.com/api/tracks/albums](https://matthewviamusic.com/api/tracks/genre)
+
 [Single Album by album+name - https://matthewviamusic.com/api/tracks/album?q=Make+Some+Space](https://matthewviamusic.com/api/tracks/album?q=Make+Some+Space)
 
 [2 Tracks paginated with 0 offset - https://matthewviamusic.com/api/tracks/paginate?limit=2&offset=0](https://matthewviamusic.com/api/tracks/paginate?limit=2&offset=0)
